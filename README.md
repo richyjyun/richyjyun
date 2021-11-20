@@ -8,5 +8,5 @@ Since most of my work consists of scripting for data analysis, I mainly use Gith
 
 If you'd like to learn more about me and my research, please visit my website: https://www.richyyun.com/
 
-You can reach me at: rjyun@uw.edu
+For any questions you can reach me at: rjyun@uw.edu
 
