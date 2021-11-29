@@ -12,18 +12,18 @@ For any questions you can reach me at: rjyun@uw.edu
 
 ### Repositories
 
-Tracking
+[Tracking](https://github.com/richyyun/Tracking): Tracking the position and orientation of a rat.
 
-CSE546
+[CSE546](https://github.com/richyyun/CSE546): Assignments from a graduate level machine learning course at the University of Washington.
 
-SortSpikes
+[SortSpikes](https://github.com/richyyun/SortSpikes): Spike sorting.
 
-Interhemi
+[Interhemi](https://github.com/richyyun/Interhemi): Code used for analyzing interhemispheric interactions.
 
-StimulusResponse
+[StimulusResponse](https://github.com/richyyun/StimulusResponse): Analyzing responses of cortical neurons to electrical stimulation. 
 
-PairedStim
+[PairedStim](https://github.com/richyyun/PairedStim): Connectivity analysis after paired stimulation for inducing STDP.
 
-OvernightTracking
+[OvernightTracking](https://github.com/richyyun/OvernightTracking): Overnight tracking of a non-human primate using a Kinect.
 
-SleepStates
+[SleepStates](https://github.com/richyyun/OvernightTracking): Spike-LFP relationships during different sleep states (coming soon).
