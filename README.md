@@ -1,4 +1,4 @@
-### Richy Yun
+## Richy Yun
 
 Hello, I'm a Bioengineering PhD Candidate in the Fetz Laboratory at the University of Washington. 
 
@@ -10,4 +10,4 @@ If you'd like to learn more about me and my research, please visit my website: h
 
 For any questions you can reach me at: rjyun@uw.edu
 
-## Repositories
+### Repositories
