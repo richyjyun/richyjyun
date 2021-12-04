@@ -2,7 +2,7 @@
 
 Hello, I'm a Bioengineering PhD Candidate in the Fetz Laboratory at the University of Washington. 
 
-I work with single-unit, local field potential, and behavioral data from non-human primates, obtained from a variety of electrophysiology devices including TDT, g.tec, Ripple, and our in-house [Neurochip3](https://depts.washington.edu/fetzweb/neurochip3.html).
+I work with single-unit, local field potential, and behavioral data from non-human primates, obtained from a variety of electrophysiology devices including TDT, g.tec, Ripple, and our in-house [Neurochip3](https://depts.washington.edu/fetzweb/neurochip3.html). During my graduate career I have been particularly interested in electrical stimulation of the cortex, and how to optimized targetted plasticity protocols. 
 
 Since most of my work consists of scripting for data analysis, I mainly use Github as a central location to demonstrate of my coding capabilities rather than version control.  
 
