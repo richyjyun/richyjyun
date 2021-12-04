@@ -26,4 +26,4 @@ For any questions you can reach me at: rjyun@uw.edu
 
 [OvernightTracking](https://github.com/richyyun/OvernightTracking): Overnight tracking of a non-human primate using a Kinect.
 
-[SleepStates](https://github.com/richyyun/OvernightTracking): Spike-LFP relationships during different sleep states (coming soon).
+[SleepStates](https://github.com/richyyun/SleepStates): Spike-LFP relationships during different sleep states (coming soon).
