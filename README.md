@@ -12,11 +12,11 @@ For any questions you can reach me at: rjyun@uw.edu
 
 ### Repositories
 
-[Tracking](https://github.com/richyyun/Tracking): Tracking the position and orientation of a rat.
+[Tracking](https://github.com/richyyun/Tracking): Tracking the position and orientation of a rat during a behavior task.
 
 [CSE546](https://github.com/richyyun/CSE546): Assignments from a graduate level machine learning course at the University of Washington.
 
-[SortSpikes](https://github.com/richyyun/SortSpikes): Spike sorting.
+[SortSpikes](https://github.com/richyyun/SortSpikes): Manual spike sorting.
 
 [Interhemi](https://github.com/richyyun/Interhemi): Code used for analyzing interhemispheric interactions.
 
