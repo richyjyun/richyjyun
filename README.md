@@ -24,6 +24,6 @@ For any questions you can reach me at: rjyun@uw.edu
 
 [PairedStim](https://github.com/richyyun/PairedStim): Connectivity analysis after paired stimulation for inducing STDP.
 
-[OvernightTracking](https://github.com/richyyun/OvernightTracking): Overnight tracking of a non-human primate using a Kinect.
+[OvernightTracking](https://github.com/richyyun/OvernightTracking): Overnight movement tracking of a non-human primate using a Kinect.
 
 [SleepStates](https://github.com/richyyun/SleepStates): Behavioral brain state classification and spike-LFP relationships during different states.
