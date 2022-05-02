@@ -10,9 +10,11 @@ If you would like to learn more about me and my research, please visit my websit
 
 For any questions you can reach me at: rjyun@uw.edu
 
-### Repositories
+### Undergraduate
 
 [Tracking](https://github.com/richyyun/Tracking): Tracking the position and orientation of a rat during a behavior task.
+
+### Graduate
 
 [CSE546](https://github.com/richyyun/CSE546): Assignments from a graduate level machine learning course at the University of Washington.
 
