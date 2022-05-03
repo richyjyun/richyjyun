@@ -12,7 +12,7 @@ For any questions you can reach me at: rjyun@uw.edu
 
 ### Undergraduate
 
-[Tracking](https://github.com/richyyun/Tracking): Tracking the position and orientation of a rat during a behavior task.
+[TrackRat](https://github.com/richyyun/TrackRat): Tracking the position and orientation of a rat during a behavior task.
 
 ### Graduate
 
