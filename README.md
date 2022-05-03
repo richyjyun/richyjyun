@@ -10,6 +10,8 @@ If you would like to learn more about me and my research, please visit my websit
 
 For any questions you can reach me at: rjyun@uw.edu
 
+## Repositories
+
 ### Undergraduate
 
 [TrackRat](https://github.com/richyyun/TrackRat): Tracking the position and orientation of a rat during a behavior task.
