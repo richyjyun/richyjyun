@@ -33,3 +33,5 @@ For any questions you can reach me at: rjyun@uw.edu
 ### Personal
 
 [MonitorLED](https://github.com/richyyun/MonitorLED): LED strip backlight for a monitor
+
+[TrackRatCNN](https://github.com/richyyun/TrackRatCNN): Tracking a rat with a convolutional neural network (work in progress)
