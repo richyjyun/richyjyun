@@ -1,6 +1,6 @@
 ## Richy Yun
 
-Hello, I am a Bioengineering PhD Candidate in the Fetz Laboratory at the University of Washington. 
+Hello, I am a Bioengineering PhD Candidate in the [Fetz Laboratory](https://depts.washington.edu/fetzweb/) at the University of Washington. 
 
 I work with single-unit, local field potential, and behavioral data from non-human primates, obtained from a variety of electrophysiology devices including TDT, g.tec, Ripple, and our in-house [Neurochip3](https://depts.washington.edu/fetzweb/neurochip3.html). During my graduate career I have been particularly interested in electrical stimulation of the cortex, and how to optimized targetted plasticity protocols *in vivo*. Analyses I have done include, but are not limited to, time-series and time frequency analysis, state-space analysis, dimensionality reduction and clustering, and unsupervised learning.
 
