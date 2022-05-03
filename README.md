@@ -29,3 +29,7 @@ For any questions you can reach me at: rjyun@uw.edu
 [SleepStates](https://github.com/richyyun/SleepStates): Behavioral brain state classification and spike-LFP relationships during different states.
 
 [PairedStim](https://github.com/richyyun/PairedStim): Connectivity analysis after paired stimulation for inducing STDP.
+
+### Personal
+
+[MonitorLED](https://github.com/richyyun/MonitorLED): LED strip backlight for a monitor
