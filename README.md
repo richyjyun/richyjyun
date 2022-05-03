@@ -4,7 +4,7 @@ Hello, I am a Bioengineering PhD Candidate in the Fetz Laboratory at the Univers
 
 I work with single-unit, local field potential, and behavioral data from non-human primates, obtained from a variety of electrophysiology devices including TDT, g.tec, Ripple, and our in-house [Neurochip3](https://depts.washington.edu/fetzweb/neurochip3.html). During my graduate career I have been particularly interested in electrical stimulation of the cortex, and how to optimized targetted plasticity protocols *in vivo*. Analyses I have done include, but are not limited to, time-series and time frequency analysis, state-space analysis, dimensionality reduction and clustering, and unsupervised learning.
 
-Since most of my work consists of scripting for data analysis, I mainly use Github as a central location to demonstrate my coding capabilities rather than version control.  
+Since most of my work consists of scripting for data analysis, I mainly use Github as a central location as a backup and to demonstrate my coding capabilities rather than for version control in my day-to-day work.  
 
 If you would like to learn more about me and my research, please visit my website: https://www.richyyun.com/
 
