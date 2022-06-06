@@ -12,11 +12,7 @@ For any questions you can reach me at: rjyun@uw.edu
 
 
 ## Repositories
-In reverse chronological order per section. 
-
-*Italics* denotes work in progress.
-
-**Bold** denotes machine learning. 
+In reverse chronological order per section. *Italics* denotes work in progress. **Bold** denotes machine learning. 
 
 ### Graduate
 
