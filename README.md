@@ -16,26 +16,26 @@ In reverse chronological order per section. *Italics* denotes work in progress. 
 
 ### Graduate
 
-[**_SleepStates_**](https://github.com/richyyun/SleepStates): Behavioral brain state classification and spike-LFP relationships during different states.
+[**_SleepStates_**](https://github.com/richyyun/SleepStates) - Behavioral brain state classification and spike-LFP relationships during different states.
 
-[*PairedStim*](https://github.com/richyyun/PairedStim): Connectivity analysis after paired stimulation for inducing STDP.
+[*PairedStim*](https://github.com/richyyun/PairedStim) - Connectivity analysis after paired stimulation for inducing STDP.
 
-[OvernightTracking](https://github.com/richyyun/OvernightTracking): Overnight movement tracking of a non-human primate using a Kinect.
+[OvernightTracking](https://github.com/richyyun/OvernightTracking) - Overnight movement tracking of a non-human primate using a Kinect.
 
-[StimulusResponse](https://github.com/richyyun/StimulusResponse): Analyzing responses of cortical neurons to electrical stimulation. 
+[StimulusResponse](https://github.com/richyyun/StimulusResponse) - Analyzing responses of cortical neurons to electrical stimulation. 
 
-[Interhemi](https://github.com/richyyun/Interhemi): Code used for analyzing interhemispheric interactions.
+[Interhemi](https://github.com/richyyun/Interhemi) - Analysis of changes in a reaction time task and interhemispheric interactions.
 
-[SortSpikes](https://github.com/richyyun/SortSpikes): Manual spike sorting.
+[SortSpikes](https://github.com/richyyun/SortSpikes) - Manual spike sorting.
 
-[CSE546](https://github.com/richyyun/CSE546): Assignments from a graduate level machine learning course at the University of Washington.
+[CSE546](https://github.com/richyyun/CSE546) - Assignments from a graduate level machine learning course at the University of Washington.
 
 ### Personal
 
-[**_TrackRatCNN_**](https://github.com/richyyun/TrackRatCNN): Tracking a rat with a convolutional neural network.
+[**_TrackRatCNN_**](https://github.com/richyyun/TrackRatCNN) - Tracking a rat with a convolutional neural network.
 
-[MonitorLED](https://github.com/richyyun/MonitorLED): LED strip backlight for a monitor.
+[MonitorLED](https://github.com/richyyun/MonitorLED) - LED strip backlight for a monitor.
 
 ### Undergraduate
 
-[TrackRat](https://github.com/richyyun/TrackRat): Tracking the position and orientation of a rat during a behavior task.
+[TrackRat](https://github.com/richyyun/TrackRat) - Tracking the position and orientation of a rat during a behavior task.
