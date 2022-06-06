@@ -12,29 +12,32 @@ For any questions you can reach me at: rjyun@uw.edu
 
 
 ## Repositories
+In reverse chronological order per section. 
+*Italics* denotes work in progress.
+**Bold** denotes machine learning. 
+
+### Graduate
+
+[**_SleepStates_**](https://github.com/richyyun/SleepStates): Behavioral brain state classification and spike-LFP relationships during different states.
+
+[*PairedStim*](https://github.com/richyyun/PairedStim): Connectivity analysis after paired stimulation for inducing STDP.
+
+[OvernightTracking](https://github.com/richyyun/OvernightTracking): Overnight movement tracking of a non-human primate using a Kinect.
+
+[StimulusResponse](https://github.com/richyyun/StimulusResponse): Analyzing responses of cortical neurons to electrical stimulation. 
+
+[Interhemi](https://github.com/richyyun/Interhemi): Code used for analyzing interhemispheric interactions.
+
+[SortSpikes](https://github.com/richyyun/SortSpikes): Manual spike sorting.
+
+[CSE546](https://github.com/richyyun/CSE546): Assignments from a graduate level machine learning course at the University of Washington.
+
+### Personal
+
+[**_TrackRatCNN_**](https://github.com/richyyun/TrackRatCNN): Tracking a rat with a convolutional neural network.
+
+[MonitorLED](https://github.com/richyyun/MonitorLED): LED strip backlight for a monitor.
 
 ### Undergraduate
 
 [TrackRat](https://github.com/richyyun/TrackRat): Tracking the position and orientation of a rat during a behavior task.
-
-### Graduate
-
-[CSE546](https://github.com/richyyun/CSE546): Assignments from a graduate level machine learning course at the University of Washington.
-
-[SortSpikes](https://github.com/richyyun/SortSpikes): Manual spike sorting.
-
-[Interhemi](https://github.com/richyyun/Interhemi): Code used for analyzing interhemispheric interactions.
-
-[StimulusResponse](https://github.com/richyyun/StimulusResponse): Analyzing responses of cortical neurons to electrical stimulation. 
-
-[OvernightTracking](https://github.com/richyyun/OvernightTracking): Overnight movement tracking of a non-human primate using a Kinect.
-
-[SleepStates](https://github.com/richyyun/SleepStates): Behavioral brain state classification and spike-LFP relationships during different states.
-
-[PairedStim](https://github.com/richyyun/PairedStim): Connectivity analysis after paired stimulation for inducing STDP.
-
-### Personal
-
-[MonitorLED](https://github.com/richyyun/MonitorLED): LED strip backlight for a monitor
-
-[TrackRatCNN](https://github.com/richyyun/TrackRatCNN): Tracking a rat with a convolutional neural network (work in progress)
