@@ -32,6 +32,8 @@ In reverse chronological order per section. *Italics* denotes work in progress. 
 
 ### Personal
 
+[** NeuralDecoding **](https://github.com/richyyun/NeuralDecoding) - Decoding movements with neural data using a siamese neural network and zero-shot learning.
+
 [**_TrackRatCNN_**](https://github.com/richyyun/TrackRatCNN) - Tracking a rat with a convolutional neural network.
 
 [MonitorLED](https://github.com/richyyun/MonitorLED) - LED strip backlight for a monitor.
