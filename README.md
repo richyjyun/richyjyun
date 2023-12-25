@@ -6,7 +6,7 @@ Sonera is developing highly sensitive but scalable magnetic sensors with large d
 
 Previously, I completed my PhD in Bioengineering in the [Fetz Laboratory](https://depts.washington.edu/fetzweb/) at the University of Washington where I worked with single-unit, local field potential, and behavioral data from non-human primates.
 
-I unfortunately cannot share any of my work at Sonera, so I have used my personal GitHub as a central location both as a backup and to demonstrate my coding capabilities, including some personal projects.
+I unfortunately cannot share any of my work at Sonera, so I have used my personal GitHub as a central location both as a backup and to demonstrate my coding capabilities using projects from mainly my graduate career as well as some personal projects.
 
 If you would like to learn more about me and my work, please visit my website (currently undergoing updates).
 
