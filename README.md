@@ -46,4 +46,4 @@ In reverse chronological order per section. *Italics* denotes work in progress. 
 
 ### Undergraduate
 
-[TrackRat](https://github.com/richyyun/TrackRat) - Tracking the position and orientation of a rat during a behavior task.
+[TrackRat](https://github.com/richyyun/TrackRat) - Tracking the position and orientation of a rat during a behavior task using basic computer vision.
